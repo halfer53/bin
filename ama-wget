@@ -1,0 +1,2 @@
+#!/bin/bash
+wget --user=tanbruce --ask-password -d --no-check-certificate -x --header="Cookie: $AMACOOKIE" $1
